@@ -15,3 +15,7 @@ Jogo da velha utilizando o Tkinter para interface gráfica e desenvolvimento da 
 
 **Obs:** O jogo é aberto após rodar o código contendo janela.mainloop();
 <hr>
+
+|![Interface](https://github.com/AlbertoFAraujo/Py_tictoe/assets/105552990/71e9a8e9-549c-414d-b3b9-e1fae35572b1) |![Interface2](https://github.com/AlbertoFAraujo/Py_tictoe/assets/105552990/96572b96-abf0-4f2d-a1e2-867a98badf0c)| ![Interface3](https://github.com/AlbertoFAraujo/Py_tictoe/assets/105552990/96152a8d-a647-4561-a906-b79d7b36f804)|
+|:---:|:---:|:---:|
+
